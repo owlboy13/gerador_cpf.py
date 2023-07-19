@@ -1,3 +1,4 @@
+#código feito nas primeiras aula de Python 
 ﻿import random
 
 nove_digitos = ''
