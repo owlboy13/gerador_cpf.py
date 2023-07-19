@@ -1,4 +1,4 @@
-#código feito nas primeiras aula de Python 
+#primeiro projeto simples feito em aulas 
 ﻿import random
 
 nove_digitos = ''
